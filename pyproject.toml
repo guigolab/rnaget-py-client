@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "rnaget-client"
-version = "0.1.0"
+version = "0.0.1"
 description = "A python client to query the RNAget compliant servers"
 authors = ["Emilio <righiemilio@gmail.com>"]
 readme = "README.md"
